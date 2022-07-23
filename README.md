@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Realchenz
-- 👀 I’m interested in listenning to music and watching K-drama
-- 🌱 I’m currently learning mechanical engineering in DUT, soonly I will go to South korea for my master's degree program and still learn mechanical engineering.
+- 👀 I’m interested in listenning to music and watching series.
+- 🌱 I’m currently learning mechanical engineering in DUT, China.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... e-mail:zachchandut@gmail.com
 
