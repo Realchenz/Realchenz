@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Realchenz
 - 👀 I’m interested in listenning to music and watching series.
-- 🌱 I’m currently learning mechanical engineering in DUT, China.
+- 🌱 I majored in mechanical engineering in DUT, China.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... e-mail:zachchandut@gmail.com
 
