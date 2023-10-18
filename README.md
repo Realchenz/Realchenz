@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Realchenz
+- 👋 Hi, I’m @Zhenxu Chen
 - 👀 I’m interested in listenning to music and watching series.
 - 🌱 I majored in mechanical engineering at DUT, China，but now specialize in computer science at Brandeis University, MA.
 - 💞️ I’m focusing on open source projects.
