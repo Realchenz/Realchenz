@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zhenxu Chen
-- 🌱 I majored in mechanical engineering at DUT, China, and now specialize in computer science at Brandeis University, MA.
+- 👋 Hi, I’m Zhenxu Chen
+- 🌱 I majored in mechanical engineering @ Dalian University of Technology, and now specialize in computer science @ Brandeis University.
 - 💞️ I’m focusing on backend development and distributed systems.
 - 📫 How to reach me ... e-mail:zachchandut@gmail.com, zhenxuchen@brandeis.edu
 - [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
